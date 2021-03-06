@@ -10,5 +10,5 @@ def display(request):
     return HttpResponse(a)
 
 def dis (request):
-    b = "good evening"
+    b = "good evening this is done"
     return  HttpResponse(b)

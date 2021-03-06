@@ -38,6 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'pra_app_1',
+    'pra_app_2',
+
 
 ]
 
